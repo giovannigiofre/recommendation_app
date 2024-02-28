@@ -1,1 +1,1 @@
-Starting from the idea of the songs recommendation system built for a university project (https://github.com/giovannigiofre/songs_recommendation_system), I want to build a better version of the system, and make it available for everyone.
+Starting from the idea of the songs recommendation system built for a university project (https://github.com/giovannigiofre/songs_recommendation_system), Try it on HuggingFace: https://huggingface.co/spaces/giovannigiofre/songs_recommendation_system
